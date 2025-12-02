@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**chintu901/chintu901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Chetan**, a CS student on the path to becoming an **AI Engineer**.
 
-Here are some ideas to get you started:
+I love building things — apps, ideas, experiments, anything that excites me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a concept interests me, there’s a high chance I’ll code it, test it, and ship it.
+
+My main tech stack revolves around **Python**, **SQL**, and **React Native**.  
+For AI work, I enjoy using **Anaconda**, **NumPy**, **Pandas**, and **TensorFlow**.
+
+I’m deeply interested in **AI** and **backend development**, and I’m constantly learning and improving.
+
+Fun Facts:  
+- I love coding (like… genuinely enjoy it).  
+- I have **two dogs** who act like my coding partners.  
+- I’m always curious about how things work under the hood.
+
+Hobbies: **gym**, **building things**, **teaching**.
