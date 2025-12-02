@@ -11,9 +11,10 @@ For AI work, I enjoy using **Anaconda**, **NumPy**, **Pandas**, and **TensorFlow
 
 I’m deeply interested in **AI** and **backend development**, and I’m constantly learning and improving.
 
-Fun Facts:  
-- I love coding (like… genuinely enjoy it).  
-- I have **two dogs** who act like my coding partners.  
+**Fun Facts**:  
+- I love coding.  
+- I have two dogs.  
 - I’m always curious about how things work under the hood.
+- **Hobbies**: gym, building things, teaching.
 
-Hobbies: **gym**, **building things**, **teaching**.
+
