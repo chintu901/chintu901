@@ -19,4 +19,19 @@ I’m deeply interested in **AI** and **backend development**, and I’m constan
 - I’m always curious about how things work under the hood.
 - **Hobbies**: gym, building things, teaching.
 
+<h3> Connect with me on 👇 </h3>
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/Chetan_Tech_Dev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/chetan-ranga-2a2561278/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
+
 
