@@ -21,8 +21,8 @@ I’m deeply interested in **AI** and **backend development**, and I’m constan
 
 <h3> Connect with me on 👇 </h3>
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instgram%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/chota.chetan67/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://x.com/Chetan_Tech_Dev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
